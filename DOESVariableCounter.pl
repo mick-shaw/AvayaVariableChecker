@@ -8,8 +8,8 @@ use strict;
 #
 # 
 # This script will be used to set Avaya DOES variables 
-# to zero when calls in the DOES Genesys Queue(s).
-# reach a certain threshold
+# to zero or any other value when calls in the DOES 
+# Genesys Queue(s) reach a certain threshold
 #
 # The DOES variables can then be used to dynamically
 # route a predefined number calls to the third-party
