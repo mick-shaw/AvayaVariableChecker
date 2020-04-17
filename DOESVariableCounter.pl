@@ -4,7 +4,7 @@ use strict;
 #
 # Author: Mick Shaw
 # File: DOESVariableCounter.pl
-# Date: 04/15/2020
+# Date: 04/17/2020
 #
 # 
 # This script will be used to set Avaya DOES variables 
